@@ -4,7 +4,7 @@
 <h3 align="center">Game Developer | Web Developer</h3>
 
 
-<img align="right" src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello, World!"/>
+<img align="right" width="300px" src="https://hackernoon.com/images/f2px36fy.gif" alt="Hello, World!"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-gamedev&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-gamedev" /> </p>
 
