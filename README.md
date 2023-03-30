@@ -14,7 +14,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/rahulr12/](https://www.linkedin.com/in/rahulr12/)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React** & **Unity**
 
 - 📫 How to reach me **rahul.gamedev@gmail.com**
 
